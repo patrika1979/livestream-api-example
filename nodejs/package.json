@@ -1,0 +1,14 @@
+{
+  "name": "kaiko-livestream-api-example",
+  "version": "1.0.0",
+  "description": "Some basic example of kaiko livestream API usage",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Inthilith <michael@kaiko.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.1.2"
+  }
+}
